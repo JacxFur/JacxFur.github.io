@@ -1,5 +1,5 @@
 ---
-layout: dafault
+layout: post
 title: "FurryMUCK Description"
 permalink: /FurryMUCK-Description/
 ---
